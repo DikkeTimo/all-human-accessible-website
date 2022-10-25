@@ -159,7 +159,7 @@ h4 {
   background-color: white;
   display: flex;
   flex-direction: column;
-  position: absolute;
+  position: fixed;
   margin-top: 3%;
   margin-left: 63em;
   gap: 25px;
