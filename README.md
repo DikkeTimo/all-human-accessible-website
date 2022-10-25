@@ -19,6 +19,8 @@ Backlog item:
 
 <img width="70%" src="assets/backlogitem.png" alt="backlogitem">
 
+<img width="70%" src="assets/backlogitem2.png" alt="backlogitem2">
+
 <br>
 
 Vervoerregio Amsterdam wil kunnen laten zien aan partners wat zij moeten doen om hun website toegankelijker te maken.
