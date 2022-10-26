@@ -112,6 +112,7 @@ h2 {
   margin-left: 5%;
   max-width: 50em;
   margin-bottom: 8em;
+  z-index: 5;
 }
 
 .accordion {
@@ -196,6 +197,11 @@ p {
   border-radius: 4px;
   background-color: #b9005f;
   box-shadow: 0 0 3px rgba(255, 255, 255, 0.5);
+}
+
+.to-top {
+  margin-left: 56rem;
+  position: fixed;
 }
 
 @media (min-width: 375px) and (max-width: 414px) {
