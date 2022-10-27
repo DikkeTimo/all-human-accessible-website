@@ -202,6 +202,7 @@ p {
 .to-top {
   margin-left: 56rem;
   position: fixed;
+  bottom: 2rem;
 }
 
 @media (min-width: 375px) and (max-width: 414px) {
