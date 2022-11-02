@@ -89,7 +89,6 @@ a button {
 }
 
 a button:hover {
-  opacity: 0.8;
   font-size: 20px;
   transition-duration: 0.5s;
 }
@@ -202,7 +201,22 @@ p {
 .to-top {
   margin-left: 56rem;
   position: fixed;
-  bottom: 2rem;
+  bottom: 5.5rem;
+}
+
+footer {
+  background-color: white;
+  padding: 1rem;
+}
+
+footer a {
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+}
+
+footer a:hover {
+  color: #b9005f;
 }
 
 @media (min-width: 375px) and (max-width: 414px) {
