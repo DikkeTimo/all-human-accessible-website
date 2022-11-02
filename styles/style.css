@@ -17,6 +17,20 @@ nav {
   height: 10ch;
 }
 
+#dark-mode-toggle {
+  background-color: white;
+  position: fixed;
+  width: 4%;
+  border-radius: 10px;
+  margin-top: 4rem;
+  margin-left: 65rem;
+  padding: 2px;
+}
+
+#dark-mode-toggle:hover {
+  background-color: #ffe6f3;
+}
+
 a:nth-of-type(1) {
   text-decoration: none;
   font-size: 18px;
@@ -37,24 +51,26 @@ img:nth-child(1) {
 }
 
 .footer {
-  position: relative;
-  padding-top: 4em;
-  margin: auto 30rem;
-}
-
-h1 {
-  font-size: 2em;
+  position: absolute;
   color: white;
   background-color: #b9005f;
-  margin-top: 7rem;
+  font-size: 2em;
+  padding-top: 2rem;
   border-radius: 10px;
   opacity: 0.9;
-  position: absolute;
-  padding-top: 2.5rem;
-  width: 15em;
-  height: 5em;
-  top: 25%;
-  left: 35%;
+  width: 18em;
+  height: 13em;
+  top: 15%;
+  left: 45%;
+}
+
+.footer p {
+  font-size: 1rem;
+  text-align: left;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  line-height: 1.6;
+  width: 30rem;
 }
 
 img:nth-child(2) {
