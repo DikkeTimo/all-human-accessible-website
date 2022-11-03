@@ -37,11 +37,14 @@ Op de site kan je zien wat je per onderwerp kan doen om een website toegankelijk
 
 <br>
 
-De website is ook uitgevoerd met een darkmode functie!
+De website is ook uitgevoerd met een darkmode slider en back to-top button.
+
+<img width="70%" src="assets/Darkmode.png">
 
 <img width="70%" src="assets/Buttonup.jpg">
 
-https://dikketimo.github.io/the-client-case/
+<h3>Link naar de website</h3>
+https://dikketimo.github.io/all-human-accessible-website/
 
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
