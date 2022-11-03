@@ -37,6 +37,10 @@ Op de site kan je zien wat je per onderwerp kan doen om een website toegankelijk
 
 <br>
 
+De website is ook uitgevoerd met een darkmode functie!
+
+<img width="70%" src="assets/Buttonup.jpg">
+
 https://dikketimo.github.io/the-client-case/
 
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
