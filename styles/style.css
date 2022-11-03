@@ -11,13 +11,17 @@
   --background-color: #ffe6f3;
   --nav-bar: #ffffff;
   --header: #000;
+  --nav-logo: #fff;
+  --button: #fff;
 }
 
 [data-theme="dark"] {
   --main-color: #ffffff;
-  --background-color: #000;
-  --nav-bar: #000;
+  --background-color: #16113d;
+  --nav-bar: #030101;
   --header: #fff;
+  --nav-logo: #fff;
+  --button: #000;
 }
 
 body {
@@ -25,7 +29,7 @@ body {
 }
 
 nav {
-  background-color: var(--nav-bar);
+  background-color: var(--nav-logo);
   display: flex;
   gap: 65%;
   height: 10ch;
@@ -109,7 +113,7 @@ a:nth-of-type(1):hover {
 }
 
 img:nth-child(1) {
-  background-color: var(--nav-bar);
+  background-color: var(--nav-logo);
   width: 20ch;
   max-height: 6ch;
   margin-left: 3rem;
@@ -214,14 +218,14 @@ h2 {
 }
 
 .accordion:after {
-  color: white;
+  color: var(--button);
   content: "\002B";
   float: right;
   padding-right: 0.5rem;
 }
 
 .active:after {
-  color: rgb(255, 253, 253);
+  color: var(--button);
   content: "\2212";
 }
 

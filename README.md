@@ -57,4 +57,5 @@ In dit project is veel html gebruikt, daarbij css en javascript. Voor elk onderw
     <li>https://www.vervoerregio.nl/</li>
     <li>https://wcag.nl/kennisbank/</li>
     <li>https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-x</li>
+    <li>https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8</li>
   </ul>
