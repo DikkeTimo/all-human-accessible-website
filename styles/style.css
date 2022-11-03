@@ -13,6 +13,7 @@
   --header: #000;
   --nav-logo: #fff;
   --button: #fff;
+  --backtotop: #000;
 }
 
 [data-theme="dark"] {
@@ -22,6 +23,7 @@
   --header: #fff;
   --nav-logo: #fff;
   --button: #000;
+  --backtotop: #fff;
 }
 
 body {
@@ -289,6 +291,10 @@ p {
   margin-left: 56rem;
   position: fixed;
   bottom: 5.5rem;
+}
+
+.fa-solid {
+  color: var(--backtotop);
 }
 
 footer {
